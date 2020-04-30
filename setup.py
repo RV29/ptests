@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="ptests_p1-RV29", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="VR",
     author_email="vidvatrmc@gmai.com.com",
     description="A small example package",
